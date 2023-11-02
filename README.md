@@ -42,21 +42,25 @@ Our program employs a genetic algorithm approach to tackle the N-Queens problem,
    ```shell
    git clone https://github.com/Michael-Moulana/NQueens-Genetic-Algorithm.git
 
+   ```
+
 2. Open the project in your development environment and configure the parameters in the genetic algorithm components to meet your requirements.
 
 3. Compile and run the program to solve the N-Queens problem for your chosen N value.
 
 ## Usage
+
 ### Running the Program:
 
 - Execute the program to initiate the genetic algorithm.
 - The algorithm will evolve a population of candidate solutions over generations, aiming to find a valid N-Queens solution with no threats between queens.
-  
+
 ### Customization:
 
 - You can fine-tune the genetic algorithm by modifying parameters in the components to better suit your specific problem size and requirements.
 
 ## Components
+
 The **NQueens-Genetic-Algorithm** comprises the following core components:
 
 - **RouletteWheelSelection**: Implements roulette wheel selection for choosing chromosomes based on their fitness, with built-in selective pressure control.
@@ -70,10 +74,11 @@ The **NQueens-Genetic-Algorithm** comprises the following core components:
 - **Fitness**: Evaluates the fitness of a chromosome by counting the number of attacks in the N-Queens problem, a critical measure of solution quality.
 
 ## Customization
+
 One of the key strengths of this program is its customizability. You can adjust various parameters such as population size, mutation rate, selective pressure, and crossover methods. Experimenting with these parameters can lead to improved results and tailored solutions for your N-Queens problem.
 
 ## Contributors
 
-
 ## License
+
 This project is licensed under the MIT License. See the LICENSE.md file for more details.
