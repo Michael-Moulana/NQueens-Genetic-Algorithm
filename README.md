@@ -1,4 +1,4 @@
-# Genetic Algorithm for N-Queens Problem Solver
+# NQueens-Genetic-Algorithm
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@
 
 ## Introduction
 
-The **Genetic Algorithm for N-Queens Problem Solver** is an intelligent and efficient solution to the classic N-Queens problem. The N-Queens problem involves placing N chess queens on an N×N chessboard, ensuring that no two queens threaten each other. Solving this problem is fundamental to artificial intelligence and has real-world applications in constraint satisfaction problems.
+The **NQueens-Genetic-Algorithm** is an intelligent and efficient solution to the classic N-Queens problem. The N-Queens problem involves placing N chess queens on an N×N chessboard, ensuring that no two queens threaten each other. Solving this problem is fundamental to artificial intelligence and has real-world applications in constraint satisfaction problems.
 
 Our program employs a genetic algorithm approach to tackle the N-Queens problem, offering an elegant and scalable solution. Genetic algorithms are inspired by the process of natural selection and evolution, making them highly adaptable to complex optimization challenges like this one.
 
@@ -40,7 +40,7 @@ Our program employs a genetic algorithm approach to tackle the N-Queens problem,
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/genetic-nqueens.git
+   git clone https://github.com/Michael-Moulana/NQueens-Genetic-Algorithm.git
 
 2. Open the project in your development environment and configure the parameters in the genetic algorithm components to meet your requirements.
 
@@ -57,7 +57,7 @@ Our program employs a genetic algorithm approach to tackle the N-Queens problem,
 - You can fine-tune the genetic algorithm by modifying parameters in the components to better suit your specific problem size and requirements.
 
 ## Components
-The **Genetic Algorithm for N-Queens Problem Solver** comprises the following core components:
+The **NQueens-Genetic-Algorithm** comprises the following core components:
 
 - **RouletteWheelSelection**: Implements roulette wheel selection for choosing chromosomes based on their fitness, with built-in selective pressure control.
 
