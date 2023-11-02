@@ -10,7 +10,6 @@
 - [Usage](#usage)
 - [Components](#components)
 - [Customization](#customization)
-- [Contributors](#contributors)
 - [License](#license)
 
 ## Introduction
@@ -76,8 +75,6 @@ The **NQueens-Genetic-Algorithm** comprises the following core components:
 ## Customization
 
 One of the key strengths of this program is its customizability. You can adjust various parameters such as population size, mutation rate, selective pressure, and crossover methods. Experimenting with these parameters can lead to improved results and tailored solutions for your N-Queens problem.
-
-## Contributors
 
 ## License
 
