@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\Administrator\source\repos\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\Administrator\source\repos\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\Administrator\source\repos\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\Administrator\source\repos\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
