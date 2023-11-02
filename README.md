@@ -10,7 +10,7 @@
 - [Usage](#usage)
 - [Components](#components)
 - [Customization](#customization)
-- [Contributing](#contributing)
+- [Contributors](#contributors)
 - [License](#license)
 
 ## Introduction
